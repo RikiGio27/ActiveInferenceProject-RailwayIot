@@ -1,6 +1,6 @@
 # Railway IoT – Active Inference contro attacchi Cyber-Physical
 
-Questo repository contiene una simulazione semplificata di un sistema **Railway IoT** per la gestione della sicurezza in presenza di **spoofing cyber-physical attacks** (False Data Injection Attack) su sistemi di **interlocking digitale ferroviario**.
+Questo repository contiene una simulazione semplificata di un sistema **Railway IoT** per la gestione della sicurezza in presenza di **spoofing cyber-physical attacks** su sistemi di **interlocking digitale ferroviario**.
 
 Il progetto ha il fine di studiare come un approccio ispirato all’**Active Inference** possa migliorare la resilienza del sistema, bilanciando sicurezza, performance e riduzione dell’incertezza.
 
