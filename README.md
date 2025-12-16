@@ -2,7 +2,7 @@
 
 Questo repository contiene una simulazione semplificata di un sistema **Railway IoT** per la gestione della sicurezza in presenza di **spoofing cyber-physical attacks** su sistemi di **interlocking digitale ferroviario**.
 
-Il progetto ha il fine di studiare come un approccio ispirato all’**Active Inference** possa migliorare la resilienza del sistema, bilanciando sicurezza, performance e riduzione dell’incertezza.
+Il progetto ha il fine di studiare come un approccio ispirato all’**Active Inference** e alla minimizzazione dell'**Expected Free Energy** possa migliorare la resilienza dei sistemi Railway IoT contro spoofing cyber-physical attacks, preservando l'omeostasi (e migliorando le performance) del sistema tramite un bilanciamento tra sicurezza immediata (azioni pragmatiche) e riduzione dell’incertezza (azioni epistemiche).
 
 ## Scenario
 
